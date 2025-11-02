@@ -1,0 +1,19 @@
+Q-1. Introduction to Python and its Features (simple, high-level, interpreted language).
+
+ans :- Python is a high-level, interpreted, and general-purpose programming
+language, known for its simplicity, readability, and versatility. It was
+created by Guido van Rossum and first released in 1991.
+
+Features of Python :-
+
+    1. Easy to Learn and Use :- Python's syntax is clear and closely resembles the English
+        language, making it beginner-friendly.
+
+    2. Interpreted Language :- Python code is executed line by line, which simplifies
+        debugging and allows for quick testing of code snippets.
+
+    3. Dynamically Typed :- Variables in Python do not require explicit type declarations.
+        The type of a variable is determined at runtime.
+
+    4. Object-Oriented :- Python supports object-oriented programming (OOP), enabling
+        developers to create reusable code through classes and objects.

@@ -1,0 +1,17 @@
+Q-2. History and Evolution of Python.
+
+ans: 
+History of Python :-
+    1. 1989 :- Guido van Rossum began developing Python at CWI (Centrum Wiskunde & Informatica) 
+        in the Netherlands.
+
+    2. 1991: Python version 0.9.0 was released — it included features like functions, 
+        exception handling, and modules.
+
+    3. 1994: Python 1.0 was officially released with features such as lambda, map, filter, 
+        and reduce.
+
+    4. 2000: Python 2.0 introduced list comprehensions and garbage collection.
+
+    5. 2008: Python 3.0 was released to remove old redundancies and improve consistency 
+        (not backward compatible with Python 2).

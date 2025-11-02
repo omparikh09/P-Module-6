@@ -1,0 +1,20 @@
+Q-3. Advantages of using Python over other programming languages.
+
+ans:
+Advantages of Python :-
+    1. Easy to Learn and Read :- Python has simple, human-readable syntax that makes it easy 
+        to write clean code.
+
+    2. Interpreted Language :- Python code runs line by line, making debugging easier and faster 
+        compared to compiled languages.
+
+    3. Extensive Libraries and Frameworks :- Python offers a huge collection of libraries like 
+        NumPy, Pandas, TensorFlow, Django, and Flask, which speed up development
+
+    4. Cross-Platform Compatibility :- Python programs can run on different operating systems 
+        (Windows, macOS, Linux) without modification
+    
+    5. Versatile Applications :- Python is widely used in web development, data science, AI, 
+        machine learning, automation, and cybersecurity.
+
+    6. Open Source :- Python is free to use and distribute, even for commercial purposes.
